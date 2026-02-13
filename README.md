@@ -39,16 +39,6 @@ calculator-app/
 
 ---
 
-## 📸 Screenshot
-
-(Add your project screenshot here)
-
-```
-![Calculator Screenshot](screenshot.png)
-```
-
----
-
 ## 💻 How It Works
 
 - User clicks numbers and operators.
