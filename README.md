@@ -9,6 +9,14 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
  ---
 ## 🚀 Features
+- ➕ Addition
+- ➖ Subtraction
+- ✖ Multiplication
+- ➗ Division
+- 🧹 Clear Button (AC)
+- ⌫ Delete Button
+- 📱 Responsive Design
+- ⚡ Real-time calculation
 
 
 ---
