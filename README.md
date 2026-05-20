@@ -8,15 +8,7 @@ This project performs basic arithmetic operations like addition, subtraction, mu
  https://peetlamahesh123.github.io/CalculatorApp/
 
  ---
-## 🚀 Features
-- ➕ Addition
-- ➖ Subtraction
-- ✖ Multiplication
-- ➗ Division
-- 🧹 Clear Button (AC)
-- ⌫ Delete Button
-- 📱 Responsive Design
-- ⚡ Real-time calculation
+
 
 
 ---
