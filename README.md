@@ -9,7 +9,7 @@ This project performs basic arithmetic operations like addition, subtraction, mu
 
  ---
 ## 🚀 Features
-- ➕ 
+- ➕ Addition
 - ➖ Subtraction
 - ✖ Multiplication
 - ➗ Division
