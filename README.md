@@ -7,7 +7,7 @@ multiplication, and division.
 ---
 ## Live link of Project:
  
-https://peetlamahesh123.github.io/CalculatorApp/
+
  ---
 ## 🚀 Features
 - ➕ Addition
