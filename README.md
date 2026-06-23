@@ -10,14 +10,7 @@ multiplication, and division.
 
  ---
 ## 🚀 Features
-- ➕ Addition
-- ➖ Subtraction
-- ✖ Multiplication
-- ➗ Division
-- 🧹 Clear Button (AC)
-- ⌫ Delete Button
-- 📱 Responsive Design
-- ⚡ Real-time calculation
+
 
 
 ---
