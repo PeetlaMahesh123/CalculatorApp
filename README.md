@@ -26,9 +26,7 @@ multiplication, and division.
 
 ## 🛠 Technologies Used
 
-- **HTML5** – Structure
-- **CSS3** – Styling & Layout
-- **JavaScript (Vanilla JS)** – Logic & Functionality
+
 
 ---
 
